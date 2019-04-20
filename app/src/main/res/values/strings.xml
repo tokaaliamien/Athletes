@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListAthletes</string>
+    <string name="errorMessage">Error something went wrong</string>
+</resources>
